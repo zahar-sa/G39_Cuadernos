@@ -1,6 +1,6 @@
 # G39_Cuadernos
 
-# Modulos II Modelos Estadísticos 
+# Modulos II.     Modelos Estadísticos 
 
 ## Enriquecimiento Didáctico de Notebooks Interactivos
 
