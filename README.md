@@ -1,6 +1,6 @@
 # G39_Cuadernos
 
-# 📊 Modelos Estadísticos y Distribuciones de Probabilidad
+# Modelos Estadísticos y Distribuciones de Probabilidad
 
 ## Enriquecimiento Didáctico de Notebooks Interactivos
 
@@ -8,7 +8,7 @@ Este repositorio contiene una colección de **notebooks de Jupyter** enriquecido
 
 ---
 
-### 📚 Contenido del Repositorio
+### Contenido del Repositorio
 
 | Módulo | Distribuciones / Temas |
 |--------|------------------------|
@@ -18,17 +18,17 @@ Este repositorio contiene una colección de **notebooks de Jupyter** enriquecido
 
 ---
 
-### ✨ Características
+###  Características
 
-- ✅ Teoría clara con tablas y analogías
-- ✅ Código interactivo con `ipywidgets`
-- ✅ Visualizaciones dinámicas (sliders, gráficos actualizables)
-- ✅ Ejemplos prácticos y ejercicios propuestos
-- ✅ Explicaciones paso a paso
+-  Teoría clara con tablas y analogías
+-  Código interactivo con `ipywidgets`
+-  Visualizaciones dinámicas (sliders, gráficos actualizables)
+-  Ejemplos prácticos y ejercicios propuestos
+-  Explicaciones paso a paso
 
 ---
 
-### 🚀 Cómo usar
+###  Cómo usar
 
 1. Clona el repositorio
 2. Abre los notebooks con Jupyter Notebook, JupyterLab o VS Code
@@ -37,7 +37,7 @@ Este repositorio contiene una colección de **notebooks de Jupyter** enriquecido
 
 ---
 
-### 📌 Requisitos
+###  Requisitos
 
 ```bash
 pip install numpy matplotlib scipy ipywidgets
@@ -48,15 +48,15 @@ pip install numpy matplotlib scipy ipywidgets
 ### Opción 2: Visual y Atractiva (con emojis)
 
 ```markdown
-# 📈 Estadística y Probabilidad Interactiva
+#  Estadística y Probabilidad Interactiva
 
 > *"La probabilidad es el verdadero fundamento de la lógica"* – **Pierre-Simon Laplace**
 
 ---
 
-## 🎯 ¿Qué encontrarás aquí?
+##  ¿Qué encontrarás aquí?
 
-| 📦 Módulo | 🎲 Distribuciones | 📐 Conceptos |
+|   Módulo |   Distribuciones |   Conceptos |
 |-----------|------------------|--------------|
 | **Discretas** | Bernoulli, Binomial, Poisson, Geométrica... | PMF, CDF, Esperanza, Varianza |
 | **Continuas** | Normal, Exponencial, Gamma, t-Student, F, χ²... | PDF, CDF, Momentos |
@@ -64,7 +64,7 @@ pip install numpy matplotlib scipy ipywidgets
 
 ---
 
-## 🖥️ Ejemplo interactivo
+##  Ejemplo interactivo
 
 ```python
 # ¡Mueve los sliders y observa cómo cambia la distribución!
@@ -76,15 +76,15 @@ from ipywidgets import interact
 ### Opción 2: Visual y Atractiva (con emojis)
 
 ```markdown
-# 📈 Estadística y Probabilidad Interactiva
+#  Estadística y Probabilidad Interactiva
 
 > *"La probabilidad es el verdadero fundamento de la lógica"* – **Pierre-Simon Laplace**
 
 ---
 
-## 🎯 ¿Qué encontrarás aquí?
+##  ¿Qué encontrarás aquí?
 
-| 📦 Módulo | 🎲 Distribuciones | 📐 Conceptos |
+|   Módulo |   Distribuciones |   Conceptos |
 |-----------|------------------|--------------|
 | **Discretas** | Bernoulli, Binomial, Poisson, Geométrica... | PMF, CDF, Esperanza, Varianza |
 | **Continuas** | Normal, Exponencial, Gamma, t-Student, F, χ²... | PDF, CDF, Momentos |
@@ -92,7 +92,7 @@ from ipywidgets import interact
 
 ---
 
-## 🖥️ Ejemplo interactivo
+##  Ejemplo interactivo
 
 ```python
 # ¡Mueve los sliders y observa cómo cambia la distribución!
