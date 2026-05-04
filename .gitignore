@@ -1,0 +1,15 @@
+# Entornos virtuales (el nombre de tu carpeta venv)
+venv/
+env/
+.env
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Bases de datos o archivos pesados
+*.sqlite3
+*.csv
