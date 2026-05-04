@@ -1,6 +1,6 @@
 # G39_Cuadernos
 
-# Modelos Estadísticos y Distribuciones de Probabilidad
+# Modulos II Modelos Estadísticos 
 
 ## Enriquecimiento Didáctico de Notebooks Interactivos
 
