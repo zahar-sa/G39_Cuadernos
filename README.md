@@ -41,3 +41,73 @@ Este repositorio contiene una colección de **notebooks de Jupyter** enriquecido
 
 ```bash
 pip install numpy matplotlib scipy ipywidgets
+
+
+---
+
+### Opción 2: Visual y Atractiva (con emojis)
+
+```markdown
+# 📈 Estadística y Probabilidad Interactiva
+
+> *"La probabilidad es el verdadero fundamento de la lógica"* – **Pierre-Simon Laplace**
+
+---
+
+## 🎯 ¿Qué encontrarás aquí?
+
+| 📦 Módulo | 🎲 Distribuciones | 📐 Conceptos |
+|-----------|------------------|--------------|
+| **Discretas** | Bernoulli, Binomial, Poisson, Geométrica... | PMF, CDF, Esperanza, Varianza |
+| **Continuas** | Normal, Exponencial, Gamma, t-Student, F, χ²... | PDF, CDF, Momentos |
+| **Inferencia** | Estimadores, EMV, Intervalos, TCL | MGF, Función Característica |
+
+---
+
+## 🖥️ Ejemplo interactivo
+
+```python
+# ¡Mueve los sliders y observa cómo cambia la distribución!
+from ipywidgets import interact
+
+
+---
+
+### Opción 2: Visual y Atractiva (con emojis)
+
+```markdown
+# 📈 Estadística y Probabilidad Interactiva
+
+> *"La probabilidad es el verdadero fundamento de la lógica"* – **Pierre-Simon Laplace**
+
+---
+
+## 🎯 ¿Qué encontrarás aquí?
+
+| 📦 Módulo | 🎲 Distribuciones | 📐 Conceptos |
+|-----------|------------------|--------------|
+| **Discretas** | Bernoulli, Binomial, Poisson, Geométrica... | PMF, CDF, Esperanza, Varianza |
+| **Continuas** | Normal, Exponencial, Gamma, t-Student, F, χ²... | PDF, CDF, Momentos |
+| **Inferencia** | Estimadores, EMV, Intervalos, TCL | MGF, Función Característica |
+
+---
+
+## 🖥️ Ejemplo interactivo
+
+```python
+# ¡Mueve los sliders y observa cómo cambia la distribución!
+from ipywidgets import interact
+
+
+
+
+
+
+
+
+
+
+
+📄
+
+
