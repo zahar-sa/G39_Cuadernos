@@ -98,8 +98,28 @@ from ipywidgets import interact
 # ¡Mueve los sliders y observa cómo cambia la distribución!
 from ipywidgets import interact
 
+Tecnologías utilizadas
+https://img.shields.io/badge/Python-3.9+-blue.svg
+https://img.shields.io/badge/Jupyter-Notebook-orange.svg
+https://img.shields.io/badge/NumPy-1.24+-green.svg
+https://img.shields.io/badge/SciPy-1.10+-red.svg
+https://img.shields.io/badge/Matplotlib-3.7+-yellow.svg
 
 
+
+###  Ejecutar en
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
+---
+
+###  Instalación
+
+```bash
+git clone https://github.com/tu-usuario/modelos-estadisticos.git
+cd modelos-estadisticos
+pip install -r requirements.txt
+jupyter notebook
 
 
 
